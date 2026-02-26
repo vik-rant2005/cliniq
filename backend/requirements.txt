@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
+alembic
+psycopg2-binary
+celery
+redis
+anthropic
+pymupdf
+pdfplumber
+pytesseract
+pillow
+python-dotenv
+fhir.resources
+httpx
+pydantic
